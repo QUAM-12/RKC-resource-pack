@@ -1,0 +1,47 @@
+{
+  "pack": {
+    "pack_format": 32,
+    "description": [
+      {
+        "text": "R",
+        "color": "yellow",
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "K",
+        "color": "green",
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": "C",
+        "color": "aqua",
+        "bold": true,
+        "italic": false
+      },
+      {
+        "text": " - ",
+        "color": "gray",
+        "bold": false
+      },
+      {
+        "text": "1st ",
+        "color": "gold",
+        "bold": true
+      },
+      {
+        "text": "Anniversary.",
+        "color": "light_purple",
+        "bold": false,
+        "underlined": true
+      },
+      {
+        "text": "\n                                1.20.6",
+        "color": "#FFFFAA",
+        "bold": false,
+        "italic": true
+      }
+    ]
+  }
+}
