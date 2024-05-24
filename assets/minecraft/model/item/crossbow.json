@@ -1,0 +1,38 @@
+{
+    "parent": "item/snbarm",
+    "overrides": [
+        {
+            "predicate": {
+                "pulling": 1
+            },
+            "model": "item/snbarm_load_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.58
+            },
+            "model": "item/snbarm_load_2"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 1.0
+            },
+            "model": "item/snbarm_load_3"
+        },
+        {
+            "predicate": {
+                "charged": 1
+            },
+            "model": "item/snbarm_arrow"
+        },
+        {
+            "predicate": {
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/snbarm_firework"
+        }
+    ]
+}
