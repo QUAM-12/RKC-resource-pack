@@ -1382,7 +1382,7 @@
 		},
 		"firstperson_lefthand": {
 			"rotation": [105, 0, -15],
-			"translation": [11, 0, 0]
+			"translation": [0.25, 1.75, 0]
 		},
 		"gui": {
 			"rotation": [0, -135, 0],
