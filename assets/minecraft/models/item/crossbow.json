@@ -61,6 +61,82 @@
                 "firework": 1
             },
             "model": "item/snbarm_firework"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/snbarm_l"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1,
+                "pulling": 1
+            },
+            "model": "item/snbarm_load_1_l"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1,
+                "pulling": 1,
+                "pull": 0.01
+            },
+            "model": "item/snbarm_load_2_l"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1,
+                "pulling": 1,
+                "pull": 0.1
+            },
+            "model": "item/snbarm_load_3_l"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1,
+                "pulling": 1,
+                "pull": 0.3
+            },
+            "model": "item/snbarm_load_4_l"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1,
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "item/snbarm_load_5_l"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1,
+                "pulling": 1,
+                "pull": 0.7
+            },
+            "model": "item/snbarm_load_6_l"
+        },
+		{
+            "predicate": {
+                "custom_model_data": 1,
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/snbarm_load_7_l"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1,
+                "charged": 1
+            },
+            "model": "item/snbarm_arrow_l"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1,
+                "charged": 1,
+                "firework": 1
+            },
+            "model": "item/snbarm_firework_l"
         }
     ]
 }
