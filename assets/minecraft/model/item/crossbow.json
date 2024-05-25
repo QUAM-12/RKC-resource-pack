@@ -10,16 +10,44 @@
         {
             "predicate": {
                 "pulling": 1,
-                "pull": 0.58
+                "pull": 0.01
             },
             "model": "item/snbarm_load_2"
         },
         {
             "predicate": {
                 "pulling": 1,
-                "pull": 1.0
+                "pull": 0.1
             },
             "model": "item/snbarm_load_3"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.3
+            },
+            "model": "item/snbarm_load_4"
+        },
+		{
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.5
+            },
+            "model": "item/snbarm_load_5"
+        },
+		{
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.7
+            },
+            "model": "item/snbarm_load_6"
+        },
+		{
+            "predicate": {
+                "pulling": 1,
+                "pull": 1
+            },
+            "model": "item/snbarm_load_7"
         },
         {
             "predicate": {
