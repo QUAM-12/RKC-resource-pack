@@ -1,8 +1,8 @@
 {
-    "advancements.adventure.arbalistic.description": "사슬팔 한 발로 종류가 다른 몹 다섯 마리를 죽이세요",
-    "advancements.adventure.ol_betsy.description": "사슬팔을 쏘세요",
+    "advancements.adventure.arbalistic.description": "사슬팔로 종류가 다른 몹 다섯 마리를 죽이세요",
+    "advancements.adventure.ol_betsy.description": "사슬팔을 사용하세요",
     "item.minecraft.crossbow": "사슬팔",
-    "subtitles.item.crossbow.charge": "사슬팔 시위를 당김",
-    "subtitles.item.crossbow.load": "사슬팔을 장전함",
+    "subtitles.item.crossbow.charge": "사슬팔을 준비하는 중",
+    "subtitles.item.crossbow.load": "사슬팔이 준비됨 ",
     "subtitles.item.crossbow.shoot": "사슬팔을 쏨"
 }

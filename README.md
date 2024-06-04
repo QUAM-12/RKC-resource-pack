@@ -5,11 +5,8 @@
 
 해당 리소스 팩은 `RKC` 1주년을 기념하여 제작되었으며, `RKC`를 상징하는 아이콘과 특별한 텍스처로 게임을 즐기실 수 있습니다.
 
-## 기능
-
-- ...
-- ...
-- ...
+## [기능](https://github.com/QUAM-12/RKC-resource-pack/blob/master/changes.md)
+해당 리소스 팩의 기능을 설명합니다.
 
 ## 설치
 
