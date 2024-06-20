@@ -473,8 +473,9 @@
 			"translation": [2.75, 0.5, 0]
 		},
 		"firstperson_lefthand": {
-			"rotation": [85, 0, 0],
-			"translation": [2.75, 0.5, 0]
+			"rotation": [94, 0, 0],
+			"translation": [16.5, 0.5, 0],
+			"scale": [2.42, 2.65, 1.23]
 		},
 		"gui": {
 			"rotation": [0, -135, 0],
