@@ -362,12 +362,12 @@
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
-			"translation": [0, 1.25, -2],
-			"scale": [1.52, 1.52, 1.52]
+			"translation": [0, 1.5, -2],
+			"scale": [1.58, 1.58, 1.58]
 		},
 		"thirdperson_lefthand": {
-			"translation": [0, 1.25, -2],
-			"scale": [1.52, 1.52, 1.52]
+			"translation": [0, 1.5, -2],
+			"scale": [1.58, 1.58, 1.58]
 		},
 		"firstperson_righthand": {
 			"translation": [-1, 5.25, -0.5],
