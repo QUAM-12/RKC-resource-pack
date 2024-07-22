@@ -6,9 +6,9 @@
 	"overrides": [
         {
             "predicate": {
-                "custom_model_data": 6626
+                "custom_model_data": 6628
             },
-            "model":"minecraft:item/portal_gun"
+            "model": "minecraft:item/portal_gun"
         }
 	]
 }
